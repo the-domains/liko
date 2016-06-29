@@ -1,4 +1,3 @@
-layout_spectrum: 0.24584071733988822
 typography_spectrum: 0.3945127099286765
 color:
   brandStrength: 0.9158377600833774
@@ -11,4 +10,10 @@ color:
     - '#979C9C'
     - '#F2EBC7'
     - '#348899'
+layout_spectrum: 0.24584071733988822
+author:
+  name: Liko Films
+  email: contact@likofilms.com
+  url: www.likofilms.com
 name: Liko
+title: Boutique Video Agency
